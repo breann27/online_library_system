@@ -1,4 +1,4 @@
-github link -
+github link - https://github.com/breann27/online_library_system
 
 
  Online Library System
@@ -7,7 +7,7 @@ An intuitive and responsive Online Library System built using React, Redux, Tail
 
 
 ```bash
-git clone 
+git clone https://github.com/breann27/online_library_system.git
 cd online-library
 npm install
 npm run dev
